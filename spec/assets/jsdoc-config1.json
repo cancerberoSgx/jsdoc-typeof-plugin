@@ -1,0 +1,15 @@
+{
+	"source": {
+		"include": [
+			"./spec/assets/test1.js"
+		]
+	},
+    "plugins": ["."],
+	"opts": {
+		"encoding": "utf8",
+		"destination": "./spec/assets/jsdoc_output",
+		"recurse": true
+	}
+}
+
+

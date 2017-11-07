@@ -1,0 +1,17 @@
+{
+  "name": "jsdoc-typeof-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node node_modules/jasmine/bin/jasmine.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^2.8.0",
+    "jsdoc": "^3.5.5",
+    "shelljs": "^0.7.8"
+  }
+}
