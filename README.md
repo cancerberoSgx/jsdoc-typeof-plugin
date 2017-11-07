@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/cancerberoSgx/jsdoc-typeof-plugin.png?branch=master)](https://travis-ci.org/cancerberoSgx/jsdoc-typeof-plugin)
+[![Dependencies](https://david-dm.org/cancerberosgx/jsdoc-typeof-plugin.svg)](https://david-dm.org/cancerberosgx/jsdoc-typeof-plugin)
+
 # What
 
 A jsdoc plugin that will convert types like `{typeof SomeClass}` into `{Class<SomeClass>}`
